@@ -22,4 +22,8 @@ public class User {
     private Date birthday;
     private List<String> hobby;
 
+    public User(){
+    	
+    }
+
 }
